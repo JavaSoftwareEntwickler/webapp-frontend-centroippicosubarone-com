@@ -1,0 +1,366 @@
+{
+  "NAV": {
+    "HOME": "Accueil",
+    "ABOUT": "À Propos",
+    "SERVICES": "Services",
+    "BOOKING": "Réserver",
+    "GALLERY": "Galerie",
+    "CONTACT": "Contact",
+    "CALL": "APPELER"
+  },
+  "FOOTER": {
+    "DESC": "Une oasis de nature et de passion pour les chevaux, située au cœur d'Orosei, sur la magnifique côte orientale de la Sardaigne.",
+    "USEFUL_LINKS": "Liens Utiles",
+    "SERVICES": "Services",
+    "CONTACTS": "Contacts",
+    "CALL_NOW": "APPELER MAINTENANT",
+    "CREATED_BY": "Développé par",
+    "DISCLAIMER": "Les traductions sont fournies pour faciliter la lecture et peuvent contenir des inexactitudes. Nous vous prions de nous excuser pour d'éventuelles erreurs."
+  },
+  "HOME": {
+    "HERO_TITLE": "Centro Ippico Su Barone",
+    "HERO_SUBTITLE": "Centre Équestre à Orosei",
+    "HERO_EYEBROW": "Expérience Authentique",
+    "BADGE_UNIQUE": "Expérience Unique",
+    "CTA": "Réserver",
+    "ABOUT_SECTION": {
+      "LABEL": "À Propos",
+      "TITLE": "Bienvenue au Centro Ippico Su Barone",
+      "SUBTITLE": "Une oasis de nature et de passion située au cœur d'Orosei.",
+      "DESC": "Depuis des années, nous sommes le point de référence pour ceux qui souhaitent vivre une expérience authentique au contact de la nature vierge de la Sardaigne.",
+      "CTA": "Découvrez notre histoire"
+    },
+    "SERVICES_SECTION": {
+      "LABEL": "Services",
+      "TITLE": "Nos activités",
+      "DESC": "Nous proposons des expériences uniques pour vous faire découvrir la beauté du territoire sarde sur nos magnifiques chevaux.",
+      "DETAILS": "Détails"
+    }
+  },
+  "ABOUT": {
+    "TITLE": "À Propos",
+    "HERO_SUB": "Passion pour l'équitation à Orosei",
+    "SECTION_1": {
+      "TITLE": "À propos de nous",
+      "SUB": "Une oasis de nature et de passion située au cœur d'Orosei.",
+      "CONTENT": "Bienvenue au Centro Ippico Su Barone, une oasis de nature et de passion pour les chevaux, située au cœur d'Orosei, sur la magnifique côte orientale de la Sardaigne. Depuis des années, notre centre est une référence pour les passionnés d'équitation et pour ceux qui souhaitent vivre une expérience authentique au contact de la nature vierge de notre île."
+    },
+    "SECTION_2": {
+      "TITLE": "Notre philosophie",
+      "SUB": "Respect, amour et accueil.",
+      "CONTENT": "Notre philosophie est basée sur le respect des animaux, l'amour du territoire et l'accueil chaleureux réservé à chaque visiteur. Nous proposons des activités équestres conçues sous le signe de l'accueil, ouvertes à tous les âges et niveaux d'expérience, aussi bien pour ceux qui souhaitent s'initier au monde du cheval que pour les cavaliers plus expérimentés."
+    },
+    "SECTION_3": {
+      "TITLE": "Activité et Passion",
+      "SUB": "Découvrez Orosei d'un point de vue unique.",
+      "CONTENT": "Nous proposons des excursions à cheval le long de sentiers panoramiques entre mer, pinèdes et montagnes, idéales pour découvrir la beauté sauvage d'Orosei. Notre école d'équitation est dédiée à la formation des débutants et au perfectionnement des plus expérimentés, avec des leçons personnalisées et des instructeurs qualifiés. Tous nos chevaux sont entraînés avec soin, respectés et habitués au contact avec les adultes et les enfants."
+    },
+    "WHY_US": {
+      "TITLE": "Pourquoi nous choisir",
+      "PASSION": "Passion",
+      "PASSION_DESC": "Nous aimons nos chevaux et notre travail.",
+      "SAFETY": "Sécurité",
+      "SAFETY_DESC": "Personnel qualifié et chevaux entraînés.",
+      "LOCATION": "Emplacement",
+      "LOCATION_DESC": "Nous sommes au cœur de la nature d'Orosei.",
+      "FOR_ALL": "Pour tous",
+      "FOR_ALL_DESC": "Expériences adaptées à tous les âges et niveaux."
+    }
+  },
+  "SERVICES": {
+    "TITLE": "Nos Services",
+    "BADGES": {
+      "NATURA": "Nature",
+      "FORMAZIONE": "Formation",
+      "COMFORT": "Confort"
+    },
+    "ESCURSIONI": "Excursions à cheval",
+    "SCUOLA": "École d'équitation",
+    "NAVETTA": "Service de navette",
+    "ESCURSIONI_DESC": "Découvrez la Sardaigne la plus authentique avec nos excursions à cheval à Orosei. Nous traverserons des pinèdes, des lagunes et des plages dorées.",
+    "SCUOLA_DESC": "Le Centro Ippico Su Barone est également une école d'équitation renommée à Orosei, idéale pour les adultes et les enfants.",
+    "NAVETTA_DESC": "Pour une expérience encore plus confortable, nous mettons à votre disposition un service de navette à Orosei directement depuis votre structure.",
+    "DETAILS": "En savoir plus"
+  },
+  "ESCURSIONI_PAGE": {
+    "TITLE": "Excursions à cheval",
+    "SUBTITLE": "Explorez Orosei en selle",
+    "BLOCK_1": {
+      "TITLE": "Une expérience inoubliable",
+      "SUBTITLE": "Des paysages à couper le souffle entre mer et terre",
+      "CONTENT": "Découvrez la Sardaigne la plus authentique avec nos excursions à cheval à Orosei, signées Centro Ippico Su Barone. Chaque sortie est un voyage inoubliable à travers des paysages à couper le souffle, des sentiers immergés dans le maquis méditerranéen et des vues spectaculaires sur la mer et les montagnes."
+    },
+    "BLOCK_2": {
+      "TITLE": "Sécurité et Passion",
+      "SUBTITLE": "Guide expert et sécurité maximale",
+      "CONTENT": "Nos excursions sont conçues pour tous : des débutants aux cavaliers expérimentés. Avant de partir, nous proposons une brève introduction pour se familiariser avec le cheval et garantir un maximum de sécurité pendant le trajet."
+    },
+    "BLOCK_3": {
+      "TITLE": "Itinéraires Suggestifs",
+      "SUBTITLE": "Itinéraires entre pinèdes et plages",
+      "CONTENT": "Accompagnés par des guides experts et des chevaux fiables, vous parcourrez des itinéraires suggestifs traversant pinèdes, campagnes, rivières et plages immaculées, offrant des émotions authentiques à chaque pas."
+    },
+    "BLOCK_4": {
+      "TITLE": "Magie au coucher du soleil",
+      "SUBTITLE": "Une atmosphère de rêve",
+      "CONTENT": "Nous organisons également des excursions au coucher du soleil, idéales pour les couples et les groupes, où la lumière dorée du soleil couchant sur l'horizon rend tout encore plus magique. Réservez dès maintenant votre excursion et laissez-vous transporter dans un voyage d'harmonie avec la nature."
+    },
+    "BLOCK_5": {
+      "TITLE": "L'Éveil de l'Aube",
+      "SUBTITLE": "L'émotion des premières lueurs",
+      "CONTENT": "L'émotion du réveil de la nature en selle. Voir le premier soleil se lever sur la mer d'Orosei est une expérience qui touche l'âme et reste gravée dans le cœur."
+    },
+    "INFO": "Toutes les excursions partent du Centro Ippico Su Barone via Trucuris 34. Des chaussures fermées et des pantalons longs sont recommandés. Toutes les excursions sont accompagnées par des guides experts.",
+    "BOOK": "Réserver maintenant",
+    "PER_PERSON": "par personne",
+    "PROPOSALS_TITLE": "Nos propositions",
+    "PROPOSALS_DESC": "Choisissez l'excursion parfaite pour vous",
+    "RECOMMENDED": "Recommandé",
+    "APERITIVO_INCL": "Apéritif inclus",
+    "NURAGHE_OSALLA": "Nuraghe Osalla",
+    "TYPES": {
+      "ALBA": {
+        "TITLE": "Excursion à l'Aube",
+        "PRICE": "70 €",
+        "TIME": "Départ : 06:00",
+        "DUR": "Durée : 1h 30m",
+        "DESC": "L'émotion du réveil de la nature en selle."
+      },
+      "MORNING_1H": {
+        "TITLE": "Promenade du Matin (1h)",
+        "PRICE": "40 €",
+        "TIME": "Départ : 08:00",
+        "DUR": "Durée : 1 Heure",
+        "DESC": "Idéal pour commencer la journée avec énergie."
+      },
+      "MORNING_1H30": {
+        "TITLE": "Promenade du Matin (1.5h)",
+        "PRICE": "60 €",
+        "TIME": "Départ : 08:00",
+        "DUR": "Durée : 1h 30m",
+        "DESC": "Exploration matinale plus approfondie."
+      },
+      "AFTERNOON_1H": {
+        "TITLE": "Tour de l'Après-midi (1h)",
+        "PRICE": "40 €",
+        "TIME": "Départ : 18:00",
+        "DUR": "Durée : 1 Heure",
+        "DESC": "Promenade relaxante en fin d'après-midi."
+      },
+      "AFTERNOON_1H30": {
+        "TITLE": "Tour de l'Après-midi (1.5h)",
+        "PRICE": "60 €",
+        "TIME": "Départ : 18:00",
+        "DUR": "Durée : 1h 30m",
+        "DESC": "Exploration étendue des sentiers locaux."
+      },
+      "APERITIVO": {
+        "TITLE": "Tour avec Apéritif",
+        "PRICE": "80 €",
+        "TIME": "Départ : 18:00",
+        "DUR": "Durée : 2 Heures",
+        "DESC": "Comprend un apéritif au Beach Bar Stella di Mare."
+      },
+      "NURAGHE": {
+        "TITLE": "Tour Nuraghe Osalla",
+        "PRICE": "130 €",
+        "TIME": "Départ : 18:00",
+        "DUR": "Durée : 3 Heures",
+        "DESC": "Comprend l'apéritif et la visite du Nuraghe (pour experts)."
+      },
+      "AFTERNOON_1H30_LATE": {
+        "TITLE": "Tour de l'après-midi (1.5h)",
+        "PRICE": "60 €",
+        "TIME": "Départ : 19:30",
+        "DUR": "Durée : 1h 30m",
+        "DESC": "Exploration prolongée des sentiers locaux."
+      }
+    }
+  },
+  "SCUOLA_PAGE": {
+    "TITLE": "École d'Équitation",
+    "SUBTITLE": "Apprenez à monter à cheval à Orosei",
+    "BLOCK_1": {
+      "TITLE": "Passion et Expérience",
+      "SUBTITLE": "Professionnalisme et divertissement",
+      "CONTENT": "Le Centro Ippico Su Barone est également une école d'équitation renommée à Orosei, idéale pour les adultes et les enfants qui souhaitent approcher le monde du cheval de manière sûre et amusante. Nous proposons des leçons individuelles et collectives, personnalisées selon le niveau d'expérience et les objectifs de chaque élève."
+    },
+    "BLOCK_2": {
+      "TITLE": "Nos Cours",
+      "SUBTITLE": "Des bases techniques à l'excellence",
+      "CONTENT": "Nos instructeurs qualifiés guident avec professionnalisme et passion l'apprentissage des techniques équestres, des bases au perfectionnement. Les cours comprennent : la manipulation du cheval à pied, le sellage, des exercices en carrière et des promenades guidées pour mettre en pratique les acquis."
+    },
+    "BLOCK_3": {
+      "TITLE": "Environnement et Bien-être",
+      "SUBTITLE": "Éthique et bien-être animal",
+      "CONTENT": "Les cours se déroulent dans un environnement sûr et serein, avec des chevaux entraînés et habitués au contact des enfants, rendant l'expérience agréable et formatrice. Nous portons une attention particulière au bien-être animal et à la relation entre le cheval et le cavalier, en promouvant une approche éthique et respectueuse."
+    },
+    "BLOCK_4": {
+      "TITLE": "Confiance et Émotions",
+      "SUBTITLE": "Développer confiance et caractère",
+      "CONTENT": "Notre école est le lieu idéal pour apprendre à monter, développer la confiance en soi et vivre des émotions authentiques. Nous organisons également des journées à thème, des camps d'été et des activités pédagogiques."
+    },
+    "BLOCK_5": {
+      "TITLE": "Votre Point de Référence",
+      "SUBTITLE": "Monter avec conscience",
+      "CONTENT": "Venez découvrir la passion de l'équitation au Centro Ippico Su Barone, la référence à Orosei pour ceux qui rêvent de monter avec liberté et conscience."
+    },
+    "KIDS": "Cours pour Enfants",
+    "KIDS_DESC": "Jeux de poney et premiers pas.",
+    "ADULTS": "Cours pour Adultes",
+    "ADULTS_DESC": "De l'initiation au perfectionnement.",
+    "CTA": "Demander des infos"
+  },
+  "NAVETTA_PAGE": {
+    "TITLE": "Service de Navette",
+    "SUBTITLE": "Voyager sans soucis",
+    "DESC_1": "Le Centro Ippico Su Barone souhaite rendre votre expérience la plus agréable possible, en éliminant le stress du transport.",
+    "DESC_2": "Que vous logiez dans un hôtel, un village de vacances ou une maison de vacances dans la zone, notre chauffeur viendra vous chercher.",
+    "FLEX": "Horaires flexibles",
+    "FLEX_DESC": "Coordonnés avec vos activités.",
+    "LOCAL": "Couverture locale",
+    "LOCAL_DESC": "Service actif dans tout Orosei.",
+    "GROUPS": "Groupes et Familles",
+    "GROUPS_DESC": "Moyens de transport adaptés à tous.",
+    "CTA": "Appeler pour disponibilité"
+  },
+  "GALLERY_PAGE": {
+    "TITLE": "Galerie",
+    "ITEMS": {
+      "CENTRO_IPPICO": "Centro Ippico Su Barone",
+      "PASSEGGIATA_SPIAGGIA": "Promenade sur la plage",
+      "CAVALLI": "Nos chevaux",
+      "SCUOLA": "École d'équitation",
+      "ALBA": "Aube à cheval",
+      "TRAMONTO": "Coucher de soleil",
+      "MOMENTI": "Moments spéciaux"
+    }
+  },
+  "CONTACT_PAGE": {
+    "TITLE": "Contacts",
+    "SUBTITLE": "Contactons-nous",
+    "DESC": "Nous sommes à votre disposition pour toute information, réservation ou demande spéciale.",
+    "ADDR": "Adresse",
+    "PHONE": "Téléphone",
+    "EMAIL": "E-mail",
+    "NAME_LABEL": "Nom",
+    "EMAIL_LABEL": "E-mail",
+    "MSG_LABEL": "Message",
+    "SEND": "ENVOYER LE MESSAGE"
+  },
+  "HOME_EXT": {
+    "TESTIMONIALS": {
+      "LABEL": "Témoignages",
+      "TITLE": "Ce qu'on dit de nous",
+      "EXCELLENT": "EXCELLENT",
+      "BASED_ON": "Basé sur 140 avis",
+      "VERIFIED": "Vérifié par Trustindex",
+      "BADGE_DESC": "Le badge vérifié Trustindex est le symbole universel de confiance. Seules les meilleures entreprises peuvent obtenir le badge vérifié avec une note d'évaluation supérieure à 4,5, basée sur les avis clients des 12 derniers mois.",
+      "LEARN_MORE": "En savoir plus",
+      "T1": "Merci à Stefano pour sa gentillesse et sa sympathie, ainsi qu'à sa jeune équipe et surtout un merci particulier aux chevaux dociles et patients qui offrent toujours de belles émotions et expériences, et de nous avoir accompagnés pour découvrir la magnifique oasis de Su Barone.",
+      "A1": "Cinzia Cosentino",
+      "P1": "https://lh3.googleusercontent.com/a/ACg8ocKsvAFkyckfWsdqpUHhgp4GWoXlG8naSYWKdwiDP6E2kwXBEA=w40-h40-c-rp-mo-ba3-br100",
+      "T2": "Comment commencer la matinée avec du tonus .... l'aube à cheval et la mer, une expérience unique à tenter !!!! Fantastique !! Merci Stefano !!!",
+      "A2": "Barbara Stoya",
+      "P2": "https://lh3.googleusercontent.com/a/ACg8ocKU89XI8YICtsWIw3YXEEST55EdlfRVQHHqHoEBD_LSiWOxQg=w40-h40-c-rp-mo-br100",
+      "T3": "Belle excursion, chevaux bien entretenus, vivement recommandé",
+      "A3": "Francesco Oldenburg",
+      "P3": "https://lh3.googleusercontent.com/a/ACg8ocLbcN765lApy2nmh4krTcLJCs5y_YC07QX_ibFowtJdWf035w=w40-h40-c-rp-mo-br100",
+      "T4": "Excursion à cheval au coucher du soleil le long de la pinède et de la magnifique plage, vivement recommandée même pour les débutants ! Personnel professionnel et préparé, chevaux très calmes, prix également très avantageux !",
+      "A4": "Irene Provvidenza",
+      "P4": "https://lh3.googleusercontent.com/a-/ALV-UjXl3mC5QtfyfQt_tU2f_GcV1CB2U79pTNwexgBTDKLA7qQGWzlw=w40-h40-c-rp-mo-br100",
+      "T5": "Le tour de deux heures le soir était magnifique. En tant que débutant absolu, ce n'était pas un problème pour moi. Tout le monde dans le groupe a été bien encadré. Tout simplement parfait.",
+      "A5": "David Haas",
+      "P5": "https://lh3.googleusercontent.com/a/ACg8ocLbo65bkprzsR7lLO76TXg98sM0-u3P-n9U4KHv3exTvfnooQ=w40-h40-c-rp-mo-br100",
+      "T6": "Nous ne pouvons que le recommander. C'est un souvenir magnifique. Tout le monde était très sympathique et on se sentait en sécurité. Le prix est vraiment correct. Aucune connaissance préalable n'est nécessaire.",
+      "A6": "Lara Gratt",
+      "P6": "https://lh3.googleusercontent.com/a/ACg8ocLL8imqjCssYt3muLweKmsLztLqv3_QHddqwr6yrW8lmgKaeA=w40-h40-c-rp-mo-br100",
+      "T7": "Superbe randonnée, vues exceptionnelles, Stephano a l'amour des animaux. Je recommande a 100%",
+      "A7": "Mathieu Chouteau",
+      "P7": "https://lh3.googleusercontent.com/a-/ALV-UjW0NtoJ-021vZm2SDJ3N0Hfw3EwoQpNiu7GRbZcWmtcSxL81XhpeA=w40-h40-c-rp-mo-ba3-br100",
+      "T8": "Nous avons fait une très belle promenade à cheval avec Stefano et d'autres clients. La réservation a été possible de manière très spontanée la veille au soir, simple et super sympa.",
+      "A8": "Klaus Krake",
+      "P8": "https://lh3.googleusercontent.com/a/ACg8ocJgkpaPYuQZ3CmSHFkQRK8PJIDCKizSmUWq70oIZMdkSutW_A=w40-h40-c-rp-mo-br100",
+      "T9": "Nous avons passé un excellent moment à cheval ici ! Une petite écurie avec un propriétaire et un personnel super sympas. Ils sont très compétents et aiment leur île et leurs chevaux.",
+      "A9": "Remvs",
+      "P9": "https://lh3.googleusercontent.com/a/ACg8ocKh9vUmDVE_OCltwrlPo1iiEOD0ZlyPGrwEZ0hRVVpDsMMdvQ=w40-h40-c-rp-mo-br100"
+    },
+    "CTA": {
+      "EYEBROW": "Prêt pour l'aventure ?",
+      "TITLE": "Pour plus d'informations, n'hésitez pas à nous contacter !",
+      "BOOK_EXP": "Réserver l'expérience"
+    }
+  },
+  "BOOKING": {
+    "SELECT_DATE": "Sélectionnez une date",
+    "SELECT_PARTICIPANTS": "Sélectionnez les participants",
+    "DAYS": {
+      "MON": "Lun",
+      "TUE": "Mar",
+      "WED": "Mer",
+      "THU": "Jeu",
+      "FRI": "Ven",
+      "SAT": "Sam",
+      "SUN": "Dim"
+    },
+    "MONTHS": {
+      "JAN": "Jan",
+      "FEB": "Fév",
+      "MAR": "Mar",
+      "APR": "Avr",
+      "MAY": "Mai",
+      "JUN": "Juin",
+      "JUL": "Juil",
+      "AUG": "Août",
+      "SEP": "Sep",
+      "OCT": "Oct",
+      "NOV": "Nov",
+      "DEC": "Déc"
+    },
+    "FULL": "Complet",
+    "AVAILABLE": "Disponible",
+    "SLOTS": "places",
+    "PARTICIPANTS": "Participants",
+    "ADULTS": "Adultes",
+    "CHILDREN": "Enfants",
+    "MAX": "Maximum",
+    "MAX_6": "Maximum 6 adultes",
+    "MAX_3_CHILDREN": "Maximum 3 enfants",
+    "YOU_ARE_CHOOSING": "Vous choisissez cette proposition",
+    "YOUR_DETAILS": "Vos coordonnées",
+    "FIRST_NAME": "Prénom",
+    "FIRST_NAME_PLACEHOLDER": "Entrez votre prénom",
+    "LAST_NAME": "Nom",
+    "LAST_NAME_PLACEHOLDER": "Entrez votre nom",
+    "EMAIL": "E-mail",
+    "EMAIL_PLACEHOLDER": "votre@email.com",
+    "SPECIAL_REQUIREMENTS": "Informations importantes per l'excursion",
+    "AUTISM_LABEL": "Y a-t-il des enfants autistes dans le groupe ?",
+    "WEIGHT_LABEL": "Combien de personnes pèsent plus de 80 kg ?",
+    "WEIGHT_HELP": "Information nécessaire pour choisir le cheval le plus adapté.",
+    "YES": "Oui",
+    "NO": "Non",
+    "SUMMARY": "Résumé de la réservation",
+    "DATE": "Date",
+    "TOTAL": "Total",
+    "STRIPE_INFO": "Vous allez être redirigé vers Stripe pour effectuer le paiement en toute sécurité.",
+    "STEP1_TITLE": "Choisissez quand venir",
+    "STEP2_TITLE": "Entrez vos coordonnées",
+    "STEP3_TITLE": "Vérifier et Payer",
+    "CONTINUE": "Continuer",
+    "BACK": "Retour",
+    "PROCEED_TO_PAYMENT": "Procéder au paiement",
+    "PAY_NOW": "Payer maintenant",
+    "REDIRECTING": "Redirection...",
+    "SUCCESS_TITLE": "Réservation reçue !",
+    "SUCCESS_MSG": "Merci d'avoir choisi le Centro Ippico Su Barone. Nous vous avons envoyé un e-mail de confirmation.",
+    "UNAVAILABLE_LOCKED": "Un autre tour est déjà programmé pour cette heure",
+    "UNAVAILABLE_FULL": "Pas assez de place pour votre groupe",
+    "UNAVAILABLE_FULL_ADULTS": "Places pour adultes épuisées pour cette proposition",
+    "UNAVAILABLE_FULL_CHILDREN": "Places pour enfants épuisées pour cette proposition",
+    "UNAVAILABLE_SOLD_OUT": "Complet",
+    "SESSION_ERROR": "Nous n'avons pas pu confirmer votre réservation. Si vous avez effectué le paiement, vous recevrez bientôt un e-mail de confirmation.",
+    "VIEWERS_RIGHT_NOW": "personnes consultent ce tour en ce moment",
+    "RECENT_BOOKINGS": "réservations au cours des dernières 24 heures"
+  }
+}
